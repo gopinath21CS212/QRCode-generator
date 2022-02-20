@@ -1,0 +1,6 @@
+import qrcode
+d=input("Enter url or data for which qr code is to be generated : ")
+qr=qrcode.QRCode(version=1,box_size=12,border=2)
+qr.add_data(d)
+qr.make(fit=True)
+qr.save("QRCODE.png")
