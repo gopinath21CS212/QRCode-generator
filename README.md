@@ -12,4 +12,4 @@ Steps:
 
 3.save it in image
 
-Thus a png file qith qr code for the data inputted qill be generated
+Thus a png file with qr code for the data inputted will be generated
